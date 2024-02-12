@@ -8,13 +8,20 @@ ____
 ## Usefull libs and links
 `karyoploteR` is good tool for R when you can display many features on chromosomes (Bernat Gel, Eduard Serra, karyoploteR: an R/Bioconductor package to plot customizable genomes displaying arbitrary data, Bioinformatics, Volume 33, Issue 19, October 2017, Pages 3088–3090,https://doi.org/10.1093/bioinformatics/btx346) 
 
+**Important links (bold)**
+
+https://doi.org/10.1002/pd.4033 
+
+https://www.pnas.org/doi/full/10.1073/pnas.0810641105
+
+**Interesting links (bold)**
+
 https://doi.org/10.1095/biolreprod.113.116459 
 
 https://www.sciencedirect.com/science/article/abs/pii/S0093775411002995?via%3Dihub 
 
 https://academic.oup.com/bioinformatics/article/38/20/4677/6678978?searchresult=1
 
-https://doi.org/10.1002/pd.4033 
 ____ 
 ## Chromosome Representation (CR) method 
 This method described in `Li Wang, Xiaohong Wang, Jianguang Zhang, Zhuo Song, Shufang Wang, Yang Gao, Jun Wang, Yaning Luo, Ziru Niu, Xiaojing Yue, Genming Xu, David S. Cram, Yuanqing Yao, Detection of Chromosomal Aneuploidy in Human Preimplantation Embryos by Next-Generation Sequencing, Biology of Reproduction, Volume 90, Issue 5, 1 May 2014, 95, 1–6,` https://doi.org/10.1095/biolreprod.113.116459
