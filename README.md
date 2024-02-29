@@ -8,6 +8,7 @@ ____
 ## Usefull libs and links
 `karyoploteR` is good tool for R when you can display many features on chromosomes (Bernat Gel, Eduard Serra, karyoploteR: an R/Bioconductor package to plot customizable genomes displaying arbitrary data, Bioinformatics, Volume 33, Issue 19, October 2017, Pages 3088–3090,https://doi.org/10.1093/bioinformatics/btx346) 
 
+The most interesting - https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.17484
 **Important links (bold)**
 
 https://doi.org/10.1002/pd.4033 
