@@ -36,3 +36,18 @@ and
 `GC% = (count of G and C in the reads uniquely mapped to the chromosome of interest)/(total count of A, C, G, and T bases in the reads uniquely mapped to the given chromosome of interest)`
 
 `CR = 0,5` represent 1 chromosome copy number (CN) . With each 0,5 CN will increase by 1 chromosome. 
+____ 
+## Chromosome Representation with scRNA method
+This method allows you to predict aneuploidy not from DNA but from RNA. 
+###Pross and Cons
+Pross: 
+`**Fast**`
+
+Cons:
+`**Expensive**`
+`**A lot of noise from different subcultures of cells**`
+
+###Reference: 
+GitHub: https://github.com/MarioniLab/Aneuploidy2017 
+Papper: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4253-x
+
