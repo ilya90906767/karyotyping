@@ -39,15 +39,20 @@ and
 ____ 
 ## Chromosome Representation with scRNA method
 This method allows you to predict aneuploidy not from DNA but from RNA. 
-###Pross and Cons
+
 Pross: 
+
 `**Fast**`
 
 Cons:
+
 `**Expensive**`
+
 `**A lot of noise from different subcultures of cells**`
 
-###Reference: 
+Reference: 
+
 GitHub: https://github.com/MarioniLab/Aneuploidy2017 
+
 Papper: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4253-x
 
